@@ -1,4 +1,4 @@
-package com.dhl;
+package com.dhl.app;
 
 import static org.junit.Assert.assertTrue;
 
